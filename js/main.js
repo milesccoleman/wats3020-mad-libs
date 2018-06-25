@@ -19,44 +19,68 @@ let honorific = prompt('Please enter an honorific title (e.g. Mister or Colonel)
 let authorName = prompt('What is your full name?');
 
 // TODO: A variable named "adjective1" for a word used to describe something.
+let adjective1 = prompt('Please enter a color.');
 
 // TODO: A variable named "vehicle" for a mode of transation (e.g. plane, boat, etc.).
+let vehicle = prompt('What is your favorite car?');
 
 // TODO: A variable named "vehiclePart" for a part of the vehicle you just named.
+let vehicalePart = prompt('What is the coolest part of that car (e.g., engine, wheels, etc)');
 
 // TODO: A variable named "parking" for a location where you park the vehicle you just named.
+let parking = prompt('Where is a good place to park that car?');
 
 // TODO: A variable named "precious" for a precious object.
+let precious = prompt('What is your most precious object');
 
 // TODO: A variable named "noiseMaker" for something that makes a sound.
+let noiseMaker = prompt('What is the most annoying musical instrument?');
 
 // TODO: A variable named "crowdBehavior" for something that people do together as a group.
+let crowdBehavior = prompt('What is your favorite thing to do with a large group of people?');
 
 // TODO: A variable named "adjective2" for a word used to describe something.
+let adjective2 = prompt('Describe a smell that you like.');
 
 // TODO: A variable named "adjective3" for a word used to describe something.
+let adjective3 = prompt('Enter any adjective you want.');
 
 // TODO: A variable named "color" for the name of a color.
+let color = prompt('What color is your favorite bird?');
 
 // TODO: A variable named "familyMember" for the name of a family relationship (e.g. sister, father, etc.).
+let familyMember = prompt('What family member is closest to you in age (brother, mother, etc.?)');
 
 // TODO: A variable named "organ" for the name of a body organ (e.g. heart, liver, spleen, etc.).
+let organ = prompt('What body part would you trade for your favorite car?');
 
 // TODO: A variable named "bodyPart1" for the name of a body part.
+let bodyPart1 = prompt('After that body part, what other body part would you trade?');
 
 // TODO: A variable named "bodyPart2" for the name of a body part.
+let bodyPart2 = prompt('After that body part, what other body part would you trade?');
 
 // TODO: A variable named "bodyPart3" for the name of a body part.
+let bodyPart3 = prompt('After that body part, what other body part would you trade?');
 
 // TODO: A variable named "thing" for an object.
+let thing = prompt('From where you are, name an object.');
 
 // TODO: A variable named "thing2" for an object you might give somebody you love.
+let thing2 = prompt('From your home, name an object.');
 
 // TODO: A variable named "thing3" for an object you might give somebody you like.
+let thing3 = prompt('From school, name an object.');
 
 // TODO: A variable named "adjective4" for a word used to describe the vehicle.
+let adjective4 = prompt('Enter any adjective you want.');
 
 // TODO: A variable named "adjective5" for a word used to describe the vehicle.
+let adjective5 = prompt('Enter any adjective you want.');
+
+var userNumber = prompt('Enter a whole number greater than zero'.);
+var number2 = userNumber + 1; 
+var	number3 = number2 + 1; 
 
 
 ////////////////////////////////////////////////////////////////////////
