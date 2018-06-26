@@ -52,7 +52,7 @@ let userNumber = prompt("Give a number greater than zero.");
 
 let number2 = userNumber * 45
 
-let number3 = userNumber * 300
+let number3 = userNumber - 8
 
 // DO NOT EDIT BELOW THIS LINE /////////////////////////////////////////
 //
